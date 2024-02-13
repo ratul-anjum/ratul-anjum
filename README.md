@@ -1,11 +1,24 @@
 ![ 👑 I am Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, I'm Ratul Anjum
 #### ✨ I am a Web Developer & Love to write code.
+<hr>
 
+# 🤹‍♂️ About Me
+<hr>
 
 As a developing Front-end Developer, my core focus lies in translating Figma and PSD designs into responsive HTML websites using HTML, CSS, JavaScript, and Bootstrap. I am deeply committed to client satisfaction, offering a complimentary 30-day support period to ensure a smooth transition and optimal user experience. This dedication to providing high-quality service is evident in every project I undertake. For further collaboration opportunities, you can find my profile on Kwork at :   https://kwork.ru/user/ratul_
 
-Skills:  HTML / CSS / Bootstrap / JavaScript
+
+# 🎉 Skills & Experiance:
+<hr>
+👉 HTML, CSS
+👉 Bootstrap
+👉 JavaScript
+👉 Responsive Web Design
+
+# 🎁 Additional Information:
+<hr>
+
 
 - 🔭 I’m currently working on https://kwork.ru/user/ratul_ 
 - 🌱 I’m currently learning WordPress 
