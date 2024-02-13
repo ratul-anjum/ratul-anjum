@@ -1,7 +1,7 @@
 ![ ✨ I am a Web Developer & Love to write code.](https://cdn-edge.kwork.ru/files/cover/11/16111375-1707858903_x1.jpg)
-## Hi there 👋, Hi there 👋, I'm Ratul Anjum 
+### Hi there 👋, I'm Ratul Anjum 
 ####  ✨ I am a Web Developer & Love to write code.
-
+#
  
 ## 🤹‍♂️ About Me
 
